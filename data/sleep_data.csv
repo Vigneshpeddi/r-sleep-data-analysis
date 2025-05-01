@@ -1,0 +1,2 @@
+This is where you should put the csv file to be analyzed. Please have the following columns:
+"Timestamp","gender","bedtime","wake_time","screen_usage","naps","GPA","sleep_quality"
